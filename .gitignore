@@ -1,0 +1,14 @@
+# vim swap files
+*.swp
+
+# phpstorm project files
+.idea
+
+.DS_Store
+### module ###
+discovery/target
+movie-microservice/target
+user-microservice/target
+user-profile-microservice/target
+recommend-microservice/target
+gateway/target
